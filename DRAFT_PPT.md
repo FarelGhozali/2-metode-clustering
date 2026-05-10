@@ -59,7 +59,7 @@
 ---
 
 # Slide 7: Visualisasi Hasil (Screenshot Program)
-*(Instruksi untuk teman: Masukkan screenshot dari output program Jupyter Notebook di sini)*
+*(Instruksi : Masukkan screenshot dari output program Jupyter Notebook di sini)*
 
 * **Grafik Kiri:** Plot K-Means (Warna klaster berdasarkan *Centroid*).
 * **Grafik Kanan:** Plot Agglomerative (Warna klaster berdasarkan *Connectivity*).
