@@ -6,7 +6,7 @@
 ---
 
 # Slide 2: Latar Belakang & Tujuan
-**Mengapa Clustering? (First Principles Approach)**
+**Mengapa Clustering? **
 * **Problem:** Mengidentifikasi pola tersembunyi dalam dataset multidimensi tanpa label target.
 * **Tujuan Proyek:**
     1. Mengimplementasikan dua paradigma *clustering* yang berbeda (Partisi vs Hierarki).
